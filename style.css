@@ -1,0 +1,36 @@
+
+nav{
+    height: 75px;
+}
+
+.navbar-nav{
+    margin-right: 250px;
+    font-size: 17px;
+    font-weight: 600;
+    
+}
+
+.d-block{
+    height: 600px;
+}
+
+.text-body{
+    text-decoration: none;
+}
+
+.imgp{
+    height: 95%;
+    border: solid 2px #caa23e;
+    border-radius: 15px;
+    box-shadow: 2px #caa23e;
+}
+
+h2{
+    margin: 30px;
+    color: #caa23e;
+}
+
+body{
+    font-family: "Oswald", sans-serif;
+}
+
